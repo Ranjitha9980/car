@@ -1,2 +1,2 @@
-# car
-automated carparking system
+# carparking
+demo for git tutorial
